@@ -11,3 +11,4 @@ cd personalWebSite
 echo 'Step 105:Copying the source files'
 sudo cp -r *  /var/www/html
 echo 'Step 106:Source code Deployed'
+echo 'Step 107:Running the Website'
